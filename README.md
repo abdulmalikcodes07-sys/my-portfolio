@@ -30,6 +30,7 @@ This portfolio was built to highlight my work, technical skills, and growth in f
 
 ## 📂 Featured Projects
 
+* 📱 CampusPay
 * 🍎 Website Clone
 * 💍 Wedding Fun Hub
 * 🎨 Portfolio Test Project
